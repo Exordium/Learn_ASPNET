@@ -11,17 +11,11 @@ namespace PluralsightMVC.Controllers
         //
         // GET: /Cuisine/
 
-        public ActionResult Index()
-        {
-            return View();
-        }
-
+		[Authorize]
 		public ActionResult Search(string name = "Italian")
 		{
 			var message = Server.HtmlEncode(name);
-			return RedirectToAction("Index", "Home", new { name = name });
-
+			return Content(message);
 		}
-
     }
 }
