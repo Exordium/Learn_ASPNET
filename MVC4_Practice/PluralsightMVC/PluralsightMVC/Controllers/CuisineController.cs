@@ -7,16 +7,16 @@ using System.Web.Mvc;
 
 namespace PluralsightMVC.Controllers
 {
-	[Log]
+    [Log]
     public class CuisineController : Controller
     {
         //
         // GET: /Cuisine/
 
-		public ActionResult Search(string name = "Italian")
-		{
-			var message = Server.HtmlEncode(name);
-			return Content(message);
-		}
+        public ActionResult Search(string name = "Italian")
+        {
+            var message = Server.HtmlEncode(name);
+            return Content(message);
+        }
     }
 }

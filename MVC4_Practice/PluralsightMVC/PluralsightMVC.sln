@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightMVC", "PluralsightMVC\PluralsightMVC.csproj", "{B6DA508C-0F00-416A-860E-4690171FDD14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightMVC", "PluralsightMVC\PluralsightMVC.csproj", "{47BBB87F-6B11-4E9B-B454-F01B63BC913F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightMVC.Tests", "PluralsightMVC.Tests\PluralsightMVC.Tests.csproj", "{765968F9-2CE9-408C-864D-AF0942CE60EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightMVC.Tests", "PluralsightMVC.Tests\PluralsightMVC.Tests.csproj", "{51BBAD8B-230A-4958-970A-BF4C376C0A67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6DA508C-0F00-416A-860E-4690171FDD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6DA508C-0F00-416A-860E-4690171FDD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6DA508C-0F00-416A-860E-4690171FDD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6DA508C-0F00-416A-860E-4690171FDD14}.Release|Any CPU.Build.0 = Release|Any CPU
-		{765968F9-2CE9-408C-864D-AF0942CE60EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{765968F9-2CE9-408C-864D-AF0942CE60EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{765968F9-2CE9-408C-864D-AF0942CE60EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{765968F9-2CE9-408C-864D-AF0942CE60EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BBB87F-6B11-4E9B-B454-F01B63BC913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BBB87F-6B11-4E9B-B454-F01B63BC913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BBB87F-6B11-4E9B-B454-F01B63BC913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BBB87F-6B11-4E9B-B454-F01B63BC913F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BBAD8B-230A-4958-970A-BF4C376C0A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BBAD8B-230A-4958-970A-BF4C376C0A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BBAD8B-230A-4958-970A-BF4C376C0A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BBAD8B-230A-4958-970A-BF4C376C0A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

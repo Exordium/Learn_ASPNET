@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{765968F9-2CE9-408C-864D-AF0942CE60EE}</ProjectGuid>
+    <ProjectGuid>{51BBAD8B-230A-4958-970A-BF4C376C0A67}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PluralsightMVC.Tests</RootNamespace>
@@ -124,7 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PluralsightMVC\PluralsightMVC.csproj">
-      <Project>{B6DA508C-0F00-416A-860E-4690171FDD14}</Project>
+      <Project>{47BBB87F-6B11-4E9B-B454-F01B63BC913F}</Project>
       <Name>PluralsightMVC</Name>
     </ProjectReference>
   </ItemGroup>
